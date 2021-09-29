@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 # import seaborn as sns
 import numpy as np
 import streamlit as st
-import sounddevice as sd
+# import sounddevice as sd
 import scipy.io.wavfile as wavfile
 
 
