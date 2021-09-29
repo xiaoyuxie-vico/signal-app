@@ -73,9 +73,9 @@ plt.ylabel('Amplitude')
 plt.xlabel('Time (sec)')
 st.pyplot()
 
-result = st.button('Play sound')
-# st.write(result,44100)
+# result = st.button('Play sound')
+# # st.write(result,44100)
 
-if result:
-    sd.play(pno,44100)
-    
+# if result:
+#     sd.play(pno,44100)
+#     
