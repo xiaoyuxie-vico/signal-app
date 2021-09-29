@@ -25,9 +25,7 @@ st.text('Features that can be modified are the damping and the number of harmoni
 st.text('')
 st.text('')
 
-# fs_rate, sgnl = wavfile.read("Yamaha A4.wav")
-fs_rate, sgnl = wavfile.read("A4.wav")
-
+fs_rate, sgnl = wavfile.read("YamahaA4.wav")
 
 tt = np.linspace(0,2,44100)
 omega = 5.0
