@@ -2,4 +2,4 @@ matplotlib==3.3.1
 numpy==1.18.5
 scipy==1.5.0
 streamlit==0.81.1
-python-sounddevice==0.4.1
+sounddevice==0.4.1
