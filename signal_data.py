@@ -19,9 +19,10 @@ import scipy.io.wavfile as wavfile
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.header('Welcome to the Signal Modification App')
-st.text('This app will show the effects of modifying mechanistic features of a signal')
 st.text('') 
 st.text('Developed by Xiaoyu Xie, Zhengtao Gan.')
+st.text('') 
+st.text('This app will show the effects of modifying mechanistic features of a signal')
 st.text('') 
 st.text('Features that can be modified are the damping and the number of harmonics in a signal')
 st.text('')
