@@ -16,7 +16,7 @@ import streamlit as st
 import scipy.io.wavfile as wavfile
 
 
-st.set_option('deprecation.showPyplotGlobalUse', False)
+# st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.header('Welcome to the Signal Modification App')
 st.text('') 
